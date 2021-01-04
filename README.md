@@ -12,7 +12,7 @@
 <h3 align="center">✨ ME</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech_Blog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@code-bebop"/></a>
+  <img src="https://img.shields.io/badge/Tech_Blog-20c997?style=flat-square&logo=Vimeo&logoColor=white&url=https://velog.io/@code-bebop"/></a>
 </p>
 
 [![Velog Badge](http://img.shields.io/badge/Tech_Blog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@code-bebop)](https://velog.io/@code-bebop)
