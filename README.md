@@ -12,7 +12,7 @@
 <h3 align="center">✨ ME</h3>
 
 <p align="center">
-  <a href="https://velog.io/@code-bebop">
+  <a href="https://velog.io/@code-bebop" target="_blank">
     <img src="https://img.shields.io/badge/Tech_Blog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@code-bebop"/>
   </a>
 </p>
