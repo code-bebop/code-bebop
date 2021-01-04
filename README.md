@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&text=JiWoongIm&color=auto&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&text=JiWoongIm&color=f7efe9&fontColor=000000)
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
