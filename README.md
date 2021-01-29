@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=JiWoongIm&color=f7efe9&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&text=JiWoongIm&color=f7efe9&fontColor=7EA6AB)
 
 <h3 align="center">⚙ Tech</h3>
 
